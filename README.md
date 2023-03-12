@@ -1,4 +1,5 @@
 # JsonFileReader_ReactRedux
-read file json/xml and display in table 
+the project in React.js, Redux
+the system read file json/xml and display in table 
 run the project by npm start
 Project is running at http://localhost:8080/
